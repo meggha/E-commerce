@@ -16,5 +16,5 @@ user-friendly and efficient online book shopping experience.
 - JavaScript
 
 # 📱Screenshots
-<img src="https://drive.google.com/uc?export=view&id=1BEJgTd98xm-YAjTFe6W4QC88nmD7eK16" alt="Home">
-<img src="https://drive.google.com/uc?export=view&id=1tcQGdwFWx7M-LgxRpvsyhyLhsECov6RM" alt="Signup">
+<img src="https://drive.google.com/file/d/1lnBLriXZVM786uoYW8fxRVQeLPaJerRi/view?usp=drive_link" alt="Home">
+<img src="https://drive.google.com/file/d/1bIQN5l6UbXdVp5NewFmtfrNa_-_YwxDw/view?usp=drive_link" alt="Signup">
