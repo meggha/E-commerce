@@ -1,6 +1,4 @@
-<div align="center">
-   ##E-commerce Bookstore
-</div>
+#E-commerce Bookstore
 
 # 📝Description
 This website serves as an online platform dedicated to book enthusiasts, offering a diverse selection of literary works. It provides users with a visually appealing interface where they can explore 
